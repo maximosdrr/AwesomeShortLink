@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeShortLink", "AwesomeShortLink\AwesomeShortLink.csproj", "{697FE7A9-5EC3-40EC-8A70-2B6BC99103DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697FE7A9-5EC3-40EC-8A70-2B6BC99103DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697FE7A9-5EC3-40EC-8A70-2B6BC99103DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697FE7A9-5EC3-40EC-8A70-2B6BC99103DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697FE7A9-5EC3-40EC-8A70-2B6BC99103DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4156047F-984F-44C8-B78C-1543F433D569}
+	EndGlobalSection
+EndGlobal
